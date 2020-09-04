@@ -1,0 +1,42 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  margin: 50px 40px 0;
+}
+
+.footer div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer a {
+  margin: 0 5px;
+}
+
+.link-footer {
+  color: #4F99FC;
+  text-decoration: none;
+  padding-top: 5px;
+}
+
+.link-footer:hover, .link-footer:focus, .link-footer:active {
+  color: rgb(35, 130, 255);
+}
+
+.coffee-p {
+  display: flex;
+  align-items: center;
+}
+
+@media screen and (min-width: 740px) {
+  .footer div {
+    flex-direction: row;
+    align-items: center;
+  }
+  .coffee-p {
+    display: flex;
+    align-items: center;
+  }
+}

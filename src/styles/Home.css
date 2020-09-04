@@ -1,0 +1,35 @@
+h1.title.baseline {
+  display: block;
+  width: fit-content;
+  margin: 0 auto 30px auto;
+  letter-spacing: 1px;
+  font-size: 20px;
+}
+
+.gif-home {  
+  display: block;
+  margin: 0 auto;
+  box-shadow: var(--shadow);
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  
+
+}
+
+span.alert {
+  display: block;
+  width: fit-content;
+  margin: -20px auto 20px auto;
+  background-color: rgba(146, 27, 27, 0.7);
+  border-radius: 6px;
+  padding: 10px 30px;
+  color: white;
+  font-weight: 500;
+}
+
+@media only screen and (min-width: 768px){
+  h1.title.baseline {
+    font-size: 30px;
+  }
+}
