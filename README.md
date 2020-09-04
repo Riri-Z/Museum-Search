@@ -1,11 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Contributor
 
+   [Armin](https://github.com/wdwcs)
+
    [Micka](https://github.com/tmicka23)
-    [Vianney](https://github.com/vbouault)
-    [Riri : myself
-    [Armin](https://github.com/wdwcs)
-    [Hugo](https://github.com/K0Si-003)
+   
+   [Hugo](https://github.com/K0Si-003)
+   
+   [Vianney](https://github.com/vbouault)
+   
+   Riri : myself
 
 ## Available Scripts
 
